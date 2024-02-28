@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "EB Garamond";
+    font-style: normal;
+    font-weight: 400;
+    src: local("EB Garamond"), url("../assets/fonts/EB_Garamond/static/EBGaramond-Regular.ttf") format("truetype");
+  
+  }
+  
+  @font-face {
+    font-family: "EB Garamond";
+    font-style: normal;
+    font-weight: 800;
+    src: local("EB Garamond"), url("../assets/fonts/EB_Garamond/static/EBGaramond-ExtraBold.ttf") format("truetype");
+  
+  }
+  
+  @font-face {
+    font-family:"Inter";
+    font-style: normal;
+    font-weight: 900;
+    src: local("Inter"), url("../assets/fonts/Inter/static/Inter-Black.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Inter"), url("../assets/fonts/Inter/static/Inter-Regular.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 200;
+    src: local("Inter"), url("../assets/fonts/Inter/static/Inter-ExtraLight.ttf") format("truetype");
+  }
